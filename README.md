@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Guest-11111111
 - 👀 I’m interested in Programming for the Classpad II and the FX-CG 500 Prizm CAS
-- 🌱 I’m currently learning C++, Python, Java, HTML
+- 🌱 I’m currently learning C++, Python, Java, HTML, C#, JavaSript
 - 💞️ I’m looking to collaborate on making a Physics formula/solver add-in for Hollyhock 2 & 3
 - 📫 How to reach me my MathLib issue
 - 😄 Pronouns: He/His
